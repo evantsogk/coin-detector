@@ -4,7 +4,7 @@ A computer vision program that detects coins in images using Hough Transform. Im
   
 ## Example
 Input:\
-<img src="./coins.tiff">
+<img src="./coins002.tiff">
 
 Output:\
-<img src="./coins_detected.png.tiff">
+<img src="./coins_detected.png">
