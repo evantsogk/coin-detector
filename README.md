@@ -8,3 +8,4 @@ Input:\
 
 Output:\
 <img src="./coins_detected.png" width="500" height="559">
+.
